@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "gorila39-login",
+  "compatibility_date": "2026-04-28",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "AMP"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
